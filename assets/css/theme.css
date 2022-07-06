@@ -16197,6 +16197,9 @@ hr.horizontal.gray-light {
     height: 100%;
     opacity: 0.8;
 }
+.info{
+    margin-top: 0.7rem;
+}
 .cursor-pointer {
     cursor: pointer;
 }

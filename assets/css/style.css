@@ -1,4 +1,7 @@
 /* Loopple Alert */
+html{
+  scroll-behavior: smooth;
+}
 .loopple-alert {
   position: relative;
   margin-bottom: 16px;
@@ -142,4 +145,16 @@
 #logo{
   width: 60px;
   height: auto;
+}
+img.fav-icons {
+    width: 40px;
+    margin: 20px 0;
+    color: #344767;
+}
+.card-img{
+  transition: 0.2s;
+}
+.card-img:hover{
+  transform: scale(1.1);
+
 }
