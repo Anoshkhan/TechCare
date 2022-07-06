@@ -139,3 +139,7 @@
   white-space: nowrap;
   border-radius: 6px;
 }
+#logo{
+  width: 60px;
+  height: auto;
+}
