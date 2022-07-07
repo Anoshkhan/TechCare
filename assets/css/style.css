@@ -1,4 +1,4 @@
-/* Loopple Alert */
+
 html{
   scroll-behavior: smooth;
 }
@@ -157,4 +157,7 @@ img.fav-icons {
 .card-img:hover{
   transform: scale(1.1);
 
+}
+.nav-item-hover:hover{
+  border-bottom: 2px solid #596cff;
 }
